@@ -28,7 +28,7 @@
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^13.0.1",
-    "electron-builder": "^22.10.5"
+    "electron-builder": "^23.0.3"
   },
   "peerDependencies": {
     "@observablehq/runtime": "4"
